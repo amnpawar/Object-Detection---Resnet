@@ -1,4 +1,3 @@
-#from keras.layers.normalization import BatchNormalization  #Outdated
 from tensorflow.keras.layers import BatchNormalization
 from keras.layers.convolutional import Conv2D
 from keras.layers.convolutional import AveragePooling2D
